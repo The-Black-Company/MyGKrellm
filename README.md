@@ -1,3 +1,4 @@
 # MyGKrellM
 
-## Done by Elania & Aoi Neko
+MyGkRellM is a task manager, it works with the ncurses library.  
+This uses parsing techniques.  
